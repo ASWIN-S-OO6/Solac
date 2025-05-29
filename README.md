@@ -29,13 +29,12 @@ Deployed backend with Uvicorn ASGI server handling CORS and WebSocket communicat
 Technologies: Flutter, Dart, Python, FastAPI, Gemini AI, ChromaDB, Sentence-Transformers, Google ML Kit, Speech-to-Text
 
 
+![Image](https://github.com/user-attachments/assets/4fa9b8da-891d-4667-ac6d-b4442c177ce3)
 
-file:///home/neros/Downloads/solac%20img/WhatsApp%20Image%202025-05-29%20at%2020.43.11.jpeg
--31:-61:38:85
 
 ![Image](https://github.com/user-attachments/assets/e8ed4eb0-42d8-47d5-9c2f-ef744cd3333f)
 
-file:///home/neros/Downloads/solac%20img/WhatsApp%20Image%202025-05-29%20at%2020.43.12%20(1).jpeg
+![Image](https://github.com/user-attachments/assets/8d4303f2-2a37-4b9c-9201-4f4751e6bb09)
 
 ![Image](https://github.com/user-attachments/assets/8edadb1d-0f4e-4cb1-a534-2f6547e9d14e)
 
