@@ -31,16 +31,24 @@ Technologies: Flutter, Dart, Python, FastAPI, Gemini AI, ChromaDB, Sentence-Tran
 
 ![Image](https://github.com/user-attachments/assets/4fa9b8da-891d-4667-ac6d-b4442c177ce3)
 
-
+‎ 
+‎ 
+‎ 
 
 
 
 ![Image](https://github.com/user-attachments/assets/e8ed4eb0-42d8-47d5-9c2f-ef744cd3333f)
+‎ 
+‎ 
+‎ 
 
 
 
 
 ![Image](https://github.com/user-attachments/assets/8d4303f2-2a37-4b9c-9201-4f4751e6bb09)
+‎ 
+‎ 
+‎ 
 
 
 
