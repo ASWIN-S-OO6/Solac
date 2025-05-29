@@ -27,3 +27,6 @@ Created responsive UI with Material Design 3 principles and adaptive theming
 Deployed backend with Uvicorn ASGI server handling CORS and WebSocket communication
 
 Technologies: Flutter, Dart, Python, FastAPI, Gemini AI, ChromaDB, Sentence-Transformers, Google ML Kit, Speech-to-Text
+
+
+![Image](https://github.com/user-attachments/assets/1299249c-892c-4c99-a716-0c80f97dbbe5)
